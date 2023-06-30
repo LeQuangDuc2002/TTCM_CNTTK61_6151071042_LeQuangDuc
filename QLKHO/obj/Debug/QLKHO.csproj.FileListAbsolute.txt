@@ -1,0 +1,174 @@
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\QLKHO.exe.config
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\QLKHO.exe
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\QLKHO.pdb
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.csprojAssemblyReference.cache
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.CuaHang.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.DangNhap.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.Hang.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.NhaCC.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.PhieuNhap.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.Phieuxuat.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.TimKiem.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.Trangchu.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.Properties.Resources.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.GenerateResource.cache
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.CoreCompileInputs.cache
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.exe
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.pdb
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.hangton.resources
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\EnvDTE.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\stdole.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\Microsoft.MSXML.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.reportcs.resources
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.CopyComplete
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\RdlCompile.cache
+E:\baitap visual studio\QLKHO\QLKHO\obj\Debug\RdlCompile.compiled
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\QLKHO.exe.config
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\QLKHO.exe
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\QLKHO.pdb
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\EnvDTE.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\stdole.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.CuaHang.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.DangNhap.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.Hang.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.hangton.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.NhaCC.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.PhieuNhap.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.Phieuxuat.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.reportcs.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.TimKiem.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.Trangchu.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.Properties.Resources.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.CopyComplete
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.exe
+C:\Users\ACER\Documents\Thực tập chuyên môn\QuanLyKho\QLKHO\QLKHO\obj\Debug\QLKHO.pdb
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.CuaHang.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.DangNhap.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.Hang.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.hangton.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.NhaCC.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.PhieuNhap.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.Phieuxuat.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.reportcs.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.TimKiem.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.Trangchu.resources
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.exe
+C:\Users\ACER\Documents\Thực tập chuyên môn\QLKHO\QLKHO\QLKHO\obj\Debug\QLKHO.pdb
